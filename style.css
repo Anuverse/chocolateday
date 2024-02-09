@@ -258,7 +258,7 @@ div.discontinued:after {
   text-transform: uppercase;
   white-space: pre-wrap;
   font-family: "Oswald", sans-serif;
-  content: "FOr My ";
+  content: "For My ";
 }
 
 div.discontinued:before {
@@ -277,7 +277,7 @@ div.discontinued:before {
   text-transform: uppercase;
   white-space: pre-wrap;
   font-family: "Oswald", sans-serif;
-  content: "Chocolate";
+  content: "Choco Girl";
   text-shadow: 0 2px 2px #ffffff;
 }
 
